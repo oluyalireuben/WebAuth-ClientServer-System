@@ -1,4 +1,4 @@
-WebAuth-ClientServer-system is a secure web application designed for user authentication and contact details management.
+WebAuth-ClientServer-System is a secure web application designed for user authentication and contact details management.
 
 ## Features
 
